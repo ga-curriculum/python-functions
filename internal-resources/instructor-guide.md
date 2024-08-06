@@ -47,9 +47,9 @@ For review or extension topics, review the notes in the pre-work for recommendat
 | Time      | Activity                                     |
 | --------- | -------------------------------------------- |
 | 0:00–0:15 | Welcome + Introductions                      |
-| 0:15–0:50 | Python Functions                             |
+| 0:15–0:50 | Function Syntax                              |
 | 0:50–1:00 | Break                                        |
-| 1:00–1:40 | Problem-Solving Functions                    |
+| 1:00–1:40 | Pseudocoding                                 |
 | 1:40–1:50 | Functions and Lists                          |
 | 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
