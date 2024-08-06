@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk",
+    "friendlyName": "Python Functions",
+    "name": "python-functions",
     "type": "Lesson"
   },
   "courses": [
@@ -20,21 +20,95 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Introduction to Functions",
+          "dirName": "introduction-to-functions",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Function Syntax",
+          "dirName": "function-syntax",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Pseudocoding",
+          "dirName": "pseudocoding",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Functions and Lists",
+          "dirName": "functions-and-lists",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Introduction to Functions",
+          "dirName": "introduction-to-functions",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Function Syntax",
+          "dirName": "function-syntax",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Pseudocoding",
+          "dirName": "pseudocoding",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Functions and Lists",
+          "dirName": "functions-and-lists",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],
