@@ -37,17 +37,9 @@ This module covers essential concepts of functions in Python. You'll learn to de
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- Python Data Structures
+- Python Conditionals
+- Python Loops
 
 ### Resources
 
