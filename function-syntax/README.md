@@ -91,7 +91,12 @@ calculate_area(8,9)
 calculate_area(width=9, length=8)
 ```
 
-## Discussion: What Does This Function Do? TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">What Does This Function Do?</h2>
+  <span class="minutes"></span>
+</div>
 
 ```python
 def mystery_function(list_to_check, value):
@@ -109,6 +114,11 @@ This function will return the index location in the given array of the given val
 
 </details>
 
-## Partner Exercise: 5.1 Functions 30 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">5.1 Functions</h2>
+  <span class="minutes">30 min</span>
+</div>
 
 Most code challenges you come across will involve writing a function that provides a solution to a given problem. **Section 5.1** has some good initial code challenges to help you practice writing functions.

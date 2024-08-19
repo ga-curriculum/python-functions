@@ -38,7 +38,7 @@ Pseudocode is an attempt to break down a larger process into the smallest imagin
 
 ![Image Placeholder](TKTK)
 
-> 🍎 Pseudocode both helps us think like the computer AND creates easily achieved and testable milestones while coding. Once we have our process defined and broken down into small steps, finding the right syntax and implementation of each step is much easier.
+> 💡 Pseudocode both helps us think like the computer AND creates easily achieved and testable milestones while coding. Once we have our process defined and broken down into small steps, finding the right syntax and implementation of each step is much easier.
 
 ## A Stir Fry Program
 
@@ -97,11 +97,16 @@ stir_fry(brown_rice, spices, oil, broccoli, shrimp)
 
 - By creating a `stir_fry()` function and passing it ingredients and ordered steps of additional supporting functions, we’ve created a program that is reusable. This reusability is dependent on passing in a standard input (ingredients in the same order), which then will return a standard output (a consistent meal).
 
-> 🍎 Using functions is vital to controlling complexity creep. Without smaller functions to package our reusable pieces of logic, our programs might contain hundreds of the tiniest, seemingly unconnected steps spilled out in a row. At the lowest level, any instructions would be absurdly difficult to piece together without larger abstracted bits of logic.
+> 💡 Using functions is vital to controlling complexity creep. Without smaller functions to package our reusable pieces of logic, our programs might contain hundreds of the tiniest, seemingly unconnected steps spilled out in a row. At the lowest level, any instructions would be absurdly difficult to piece together without larger abstracted bits of logic.
 
 > Programs don’t get more complicated because of code. They get more complicated because of the logic behind them.
 
-## Discussion: Pseudocoding a Process 5 min TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Pseudocoding a Process</h2>
+  <span class="minutes">5 min</span>
+</div>
 
 Think about a process that you’re required to perform in your role. How you would pseudocode instructions for a new employee?
 
@@ -111,7 +116,12 @@ Think about a process that you’re required to perform in your role. How you wo
 
 Complete this activity as a group using one or two examples suggested by the class. You can write the steps down to keep track of them as you go.
 
-## Partner Exercise: 5.2 Problem-Solving Functions 30 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">5.2 Problem-Solving Functions</h2>
+  <span class="minutes">30 min</span>
+</div>
 
 The next few functions will require a bit of problem-solving logic to produce a specific result from given inputs. Pseudocoding may help you by writing out the steps before coding them!
 

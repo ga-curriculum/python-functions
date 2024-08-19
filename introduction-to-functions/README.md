@@ -26,7 +26,12 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - Defining and invoking functions
 - Writing pseudocode
 
-## Solo Exercise: Jupyter Notebook Review (10 min) TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">Jupyter Notebook Review</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
