@@ -27,7 +27,7 @@ This module covers essential concepts of functions in Python. You'll learn to de
 | [Function Syntax](./function-syntax/README.md)                     | Understanding function structure, invoking functions, and using parameters and arguments. |
 | [Pseudocoding](./pseudocoding/README.md)                           | Translating processes into pseudocode, thinking like a computer, and breaking down tasks. |
 | [Functions and Lists](./functions-and-lists/README.md)             | Applying functions to lists, using `map()`, and defining `lambda` functions.              |
-| [Wrap Up](./wrap-up/README.md)                                     | Reviewing key concepts, ensuring comprehension, and preparing for the next topic          |
+| [Wrap Up](./wrap-up/README.md)                                     | Reviewing key concepts and preparing for the next module.                                 |
 
 ## References
 
