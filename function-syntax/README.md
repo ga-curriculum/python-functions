@@ -19,7 +19,7 @@
 
 ## Defining Functions
 
-![Function Definitions](./assets/defining-functions.png) TKTK
+![Function Definitions](./assets/defining-functions.png)
 
 ```python
 def display_greeting():
@@ -50,7 +50,7 @@ greetings()
 
 ## Function Parameters and Arguments
 
-![Parameters and Arguments](./assets/arguments-and-parameters.png) TKTK
+![Parameters and Arguments](./assets/arguments-and-parameters.png)
 
 When defining functions, **Parameters** act as placeholders for the values that the function will operate on. **Arguments** are the actual values you pass into the function when invoking it.
 

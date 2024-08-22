@@ -14,7 +14,7 @@
 > "The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do."
 > — Ted Nelson, technology pioneer
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 Now that we’ve learned how to write functions, we can consider more complex problems for our programs to tackle.
 This will require thinking critically about the individual steps involved in any process we want to represent with a function.
@@ -36,7 +36,7 @@ The art of programming requires understanding how a computer thinks:
 
 Pseudocode is an attempt to break down a larger process into the smallest imaginable component steps.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 Pseudocode both helps us think like the computer AND creates easily achieved and testable milestones while coding. Once we have our process defined and broken down into small steps, finding the right syntax and implementation of each step is much easier.
 
@@ -125,6 +125,6 @@ Complete this activity as a group using one or two examples suggested by the cla
 
 The next few functions will require a bit of problem-solving logic to produce a specific result from given inputs. Pseudocoding may help you by writing out the steps before coding them!
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 > Figuring out the steps is the hard part; writing the actual code behind the function is much easier once the steps have been determined.
