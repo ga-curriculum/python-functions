@@ -122,3 +122,4 @@ This function will return the index location in the given array of the given val
 </div>
 
 Most code challenges you come across will involve writing a function that provides a solution to a given problem. **Section 5.1** has some good initial code challenges to help you practice writing functions.
+

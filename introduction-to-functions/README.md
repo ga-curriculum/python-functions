@@ -9,7 +9,7 @@
 | ------------------------- | -------- |
 | Introduction to Functions | 15 min   |
 
-## Today’s Learning Objectives
+## Our Learning Goals
 
 In this Module, you will:
 
@@ -17,6 +17,8 @@ In this Module, you will:
 - Use parameters in a function.
 - Understand how to return a value from a function.
 - Create functions that include loops and conditional logic to generate specific return values.
+
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## What We’ll Practice Today
 
