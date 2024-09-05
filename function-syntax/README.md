@@ -13,13 +13,13 @@
 
 **Functions** are chunks of code that are grouped and will execute together, like a modular program within a program. A function takes input, performs logic, and returns output.
 
-![Input and Output](./assets/function-input-output.png)
+<img src="./assets/function-input-output.png" alt="Input and Output Image" style="width: 800px; height: auto;">
 
 - Functions allow our programs to start accepting input in meaningful ways. We've already encountered the `print()` function — now we can start writing our own!
 
 ## Defining Functions
 
-![Function Definitions](./assets/defining-functions.png)
+<img src="./assets/defining-functions.png" alt="Function Definitions Image" style="width: 800px; height: auto;">
 
 ```python
 def display_greeting():
@@ -50,7 +50,7 @@ greetings()
 
 ## Function Parameters and Arguments
 
-![Parameters and Arguments](./assets/arguments-and-parameters.png)
+<img src="./assets/arguments-and-parameters.png" alt="Parameters and Arguments Image" style="width: 800px; height: auto;">
 
 When defining functions, **Parameters** act as placeholders for the values that the function will operate on. **Arguments** are the actual values you pass into the function when invoking it.
 
@@ -122,4 +122,3 @@ This function will return the index location in the given array of the given val
 </div>
 
 Most code challenges you come across will involve writing a function that provides a solution to a given problem. **Section 5.1** has some good initial code challenges to help you practice writing functions.
-
